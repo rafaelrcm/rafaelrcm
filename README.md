@@ -3,14 +3,11 @@
 
 - Skills:
   - Java
+  - Python
   - SQL
-  - Python
-  - S3
   - Airflow
-  - Terraform
-  - Python
-  - Linux
-  - Kubernetes
+  - Redshift
+  - BigQuery
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrcm&theme=radical&layout=compact" alt="rafaelrcm"/>
