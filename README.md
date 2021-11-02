@@ -6,6 +6,7 @@
   - Python
   - SQL
   - Airflow
+  - Spark
   - Redshift
   - BigQuery
 
