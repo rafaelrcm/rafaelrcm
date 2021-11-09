@@ -10,7 +10,7 @@
   - Redshift
   - BigQuery
 
-- [Data Modeling](data-modeling) Constantly updated with latest additions
+- [Data Modeling](https://github.com/rafaelrcm/data-modeling)
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrcm&theme=radical&layout=compact" alt="rafaelrcm"/>
