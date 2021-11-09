@@ -11,10 +11,10 @@
 - BigQuery
 
 # Portfolio:
-- [Data Modeling](https://github.com/rafaelrcm/data-modeling)
-- [Data Warehouse](https://github.com/rafaelrcm/data-warehouse-redshift)
-- [Data Lake](https://github.com/rafaelrcm/data-lake-spark)
-- [Data Pipeline](https://github.com/rafaelrcm/data-pipeline-airflow)
+- [Data Modeling (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-modeling)
+- [Data Warehouse (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-warehouse-redshift)
+- [Data Lake (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-lake-spark)
+- [Data Pipeline (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-pipeline-airflow)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldechristo/)](https://www.linkedin.com/in/rafaeldechristo/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafaeldechristo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldechristo@gmail.com)](mailto:rafaeldechristo@gmail.com)
