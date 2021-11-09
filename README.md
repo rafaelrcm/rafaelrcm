@@ -11,10 +11,11 @@
 - BigQuery
 
 # Portfolio:
-- [Data Modeling (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-modeling)
-- [Data Warehouse (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-warehouse-redshift)
-- [Data Lake (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-lake-spark)
-- [Data Pipeline (Data Engineering Nanodegree)](https://github.com/rafaelrcm/data-pipeline-airflow)
+## Data Engineering Nanodegree
+- [Data Modeling](https://github.com/rafaelrcm/data-modeling)
+- [Data Warehouse - Redshift](https://github.com/rafaelrcm/data-warehouse-redshift)
+- [Data Lake - Spark](https://github.com/rafaelrcm/data-lake-spark)
+- [Data Pipeline - Airflow](https://github.com/rafaelrcm/data-pipeline-airflow)
 
 <br>
 
