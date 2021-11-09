@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Rafael Marques</h1>
+<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Rafael de Christo Marques</h1>
 <h3 align="center">Software Engineer | Data Engineer</h3>
 
 # Skills:
@@ -10,7 +10,7 @@
 - Redshift
 - BigQuery
 
-# Projetcs:
+# Portfolio:
 - [Data Modeling](https://github.com/rafaelrcm/data-modeling)
 - [Data Warehouse](https://github.com/rafaelrcm/data-warehouse-redshift)
 - [Data Lake](https://github.com/rafaelrcm/data-lake-spark)
