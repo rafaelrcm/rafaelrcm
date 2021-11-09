@@ -11,7 +11,7 @@
 - BigQuery
 
 # Portfolio:
-Data Engineering Nanodegree
+Data Engineering Nanodegree:
 - [Data Modeling](https://github.com/rafaelrcm/data-modeling)
 - [Data Warehouse - Redshift](https://github.com/rafaelrcm/data-warehouse-redshift)
 - [Data Lake - Spark](https://github.com/rafaelrcm/data-lake-spark)
