@@ -13,7 +13,7 @@
 
 # Portfolio:
 
-- [Data Modeling](https://github.com/rafaelrcm/data-modeling)
+- [Data Modeling - PostgreSQL](https://github.com/rafaelrcm/data-modeling)
 - [Data Warehouse - Redshift](https://github.com/rafaelrcm/data-warehouse-redshift)
 - [Data Lake - Spark](https://github.com/rafaelrcm/data-lake-spark)
 - [Data Pipeline - Airflow](https://github.com/rafaelrcm/data-pipeline-airflow)
