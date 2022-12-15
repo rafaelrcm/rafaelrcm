@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <br>I'm Rafael de Christo Marques</h1>
-<h3 align="center">Software Engineer | Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 # Skills:
 - Java
