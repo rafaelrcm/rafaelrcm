@@ -2,13 +2,14 @@
 <h3 align="center">Data Engineer</h3>
 
 # Skills:
-- Java
 - Python
 - SQL
 - Airflow
 - Spark
 - Redshift
+- Athena
 - BigQuery
+- Terraform
 
 # Portfolio:
 Data Engineering Nanodegree:
