@@ -17,7 +17,7 @@
 - [Data Warehouse - Redshift](https://github.com/rafaelrcm/data-warehouse-redshift)
 - [Data Lake - Spark](https://github.com/rafaelrcm/data-lake-spark)
 - [Data Pipeline - Airflow](https://github.com/rafaelrcm/data-pipeline-airflow)
-- [BigQuery - Cloud Functions - Pipeline CI/CD - Terraform](https://github.com/rafaelrcm/gcp-cloud-function-terraform)
+- [Pipeline CI/CD - BigQuery - Cloud Functions - Terraform](https://github.com/rafaelrcm/gcp-cloud-function-terraform)
 
 <br>
 
