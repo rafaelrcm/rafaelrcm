@@ -2,6 +2,7 @@
 <h3 align="center">Data Engineer</h3>
 
 # Skills:
+- Java
 - Python
 - SQL
 - Airflow
