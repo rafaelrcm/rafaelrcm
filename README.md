@@ -2,7 +2,6 @@
 <h3 align="center">Data Engineer</h3>
 
 # Skills:
-- Java
 - Python
 - SQL
 - Airflow
@@ -19,6 +18,7 @@
 - [Data Lake - Spark](https://github.com/rafaelrcm/data-lake-spark)
 - [Data Pipeline - Airflow](https://github.com/rafaelrcm/data-pipeline-airflow)
 - [Pipeline CI/CD - BigQuery - Cloud Functions - Terraform](https://github.com/rafaelrcm/gcp-cloud-function-terraform)
+- [Projeto Dbt](https://github.com/rafaelrcm/dbtproject)
 
 <br>
 
